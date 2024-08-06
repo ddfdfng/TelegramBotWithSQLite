@@ -4,7 +4,7 @@ from telebot import types
 from datetime import datetime
 
 # Bot configuration
-API_TOKEN = '7021497606:AAGdjM0kAa0wFKL_4Rq_nlwhlYCTdAZSgJU'
+API_TOKEN = 'your-api-token'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Database setup
